@@ -24,3 +24,8 @@
 
 [<img align="left" alt="Discord" width="26px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />](https://discord.com/users/592101945590939658)
 **[Discord](https://discord.com/users/592101945590939658)** - Direct Message requests are open<br>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayukyuu&color=brightgreen&style=for-the-badge">
+</p>
